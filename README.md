@@ -25,7 +25,7 @@
 
 ### Шаг 1: Клонирование репозитория
 
-- Сначала нужно склонировать репозиторий на свой компьютер.
+- Клонируйте репозиторий:
 
 ```
 git clone https://github.com/SubbotinRoman/swagger-get-request.git
@@ -33,7 +33,7 @@ git clone https://github.com/SubbotinRoman/swagger-get-request.git
 
 ### Шаг 2: Установка зависимостей
 
-- Установите необходимые пакеты
+- Установите зависимости:
   
   ```
   npm install
@@ -41,7 +41,7 @@ git clone https://github.com/SubbotinRoman/swagger-get-request.git
 
 ### Шаг 3: Запуск проекта
 
-- Для запуска проекта используй команду:
+- Для запуска проекта используйте команду:
 
  ```
  npx ts-node index.ts
