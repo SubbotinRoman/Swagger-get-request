@@ -31,6 +31,12 @@
 git clone https://github.com/SubbotinRoman/swagger-get-request.git
 ```
 
+- Перейдите в папку с проектом:
+
+```
+cd swagger-get-request
+```
+
 ### Шаг 2: Установка зависимостей
 
 - Установите зависимости:
