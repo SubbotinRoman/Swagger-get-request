@@ -9,11 +9,15 @@
 - 🔒 Защищает от ошибок благодаря проверке типов данных
 - 📊 Показывает результаты в понятном и читаемом виде
 
+---
+
 ## Стек технологий ⚙️
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) 
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
 
 ## Установка и запуск 🚀
 
